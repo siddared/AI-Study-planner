@@ -1,3 +1,4 @@
+## App Link: https://study-planner-app.apps.lemma.work/
 # AI Student Study Planner
 
 A focused one-table-one-agent-one-app pod that takes a student's **goal**, **daily
